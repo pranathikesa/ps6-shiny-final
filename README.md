@@ -9,7 +9,7 @@ The data was collected by researchers at the Institute for Health Metrics and Ev
 
 **Explanation of Widgets and Panels:**
 
-_Plots Page: _
+_Plots Page:_
 In this page, the plot provides you information with the number of deaths each pathogen from the dataset causes in a certain location. This plot can be presented as either a bar graph or a scatterplot, which is shown as a widget, in which the user may select which plot they would like to see. In this way, the visual of the plot changes, but the data does not. The other widgets include selecting the location and selecting which pathogens the user would like to see displayed on the graph. 
 
 _Table Page:_

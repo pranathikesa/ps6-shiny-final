@@ -1,5 +1,5 @@
 # ps6-shiny-final
-User Documentation 
+# User Documentation #
 
 **Description of the Data:**
 This dataset provides the estimates of deaths and years of life lost due to various bacterial infections, caused by 33 pathogens across 204 locations in 2019. The estimates in this dataset were made by using a total of 343 million individual records and 11,361 study location years. These records analyzed data from hospital discharges, cause of death, tissue sampling, literature reviews, microbiology lab results from hospitals nationally as well as muti-national surveillance systems.

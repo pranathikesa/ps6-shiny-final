@@ -9,8 +9,6 @@ library(ggplot2)
 bacteria_1 <- read_delim("pathogen.csv")
 bacteria_2 <- select(bacteria_1, -sex_id, -sex_name, -metric_id, -metric_name, -upper, -lower)
 bacteria_2
-nrow(bacteria_2)
-ncol(bacteria_2)
 bacteria_final <- bacteria_2[!(bacteria_2$location_name %in% c("Global",
                                                                "Southeast Asia, East Asia, and Oceania", 
                                                                "East Asia", "Democratic People's Republic of Korea",

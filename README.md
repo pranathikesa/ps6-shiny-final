@@ -17,6 +17,9 @@ _Table Page:_
 In this page, the table provides you with the number of deaths each pathogen from the dataset causes among certain age groups. In this page, the widget allows the user to select which age group they would like to see, and the table shows the deaths each pathogen causes in that age group in descending order. The textual output explains what the minimum and maximum deaths for that age group. 
 
 ### Link to Shiny App: ###
+https://pkesap.shinyapps.io/pathogen_app/
+
+#### Small Note: #### In my app, I'm unsure why, but the bargraph/scatterplot data on the "Plots" page only shows up after you go to the "Table" page, make an age selection, view the table, then go back to the "Plots" page. Then, you can make all the selections you'd like and the bargraph/scatterplot will function. 
 
 ### Hours Spent on PS6: ###
 I spent several hours over several days working on this PS, a total of around 20 hours. 

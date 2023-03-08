@@ -18,8 +18,7 @@ In this page, the table provides you with the number of deaths each pathogen fro
 
 ### Link to Shiny App: ###
 https://pkesap.shinyapps.io/pathogen_app/
-
-#### Small Note: #### In my app, I'm unsure why, but the bargraph/scatterplot data on the "Plots" page only shows up after you go to the "Table" page, make an age selection, view the table, then go back to the "Plots" page. Then, you can make all the selections you'd like and the bargraph/scatterplot will function. 
+#### Small Note: In my app, I'm unsure why, but the bargraph/scatterplot data on the "Plots" page only shows up after you go to the "Table" page, make an age selection, view the table, then go back to the "Plots" page. Then, you can make all the selections you'd like and the bargraph/scatterplot will function. #### 
 
 ### Hours Spent on PS6: ###
 I spent several hours over several days working on this PS, a total of around 20 hours. 
